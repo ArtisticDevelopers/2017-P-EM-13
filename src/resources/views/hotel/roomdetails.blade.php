@@ -567,12 +567,12 @@
                         <h2>Twitter Feed</h2>
                         <div class="twitter-update">
                             "<a href="#">@SmoothThemes</a>Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus
-                            <a href="#">.http://t.co/WHATEVER</a><a href="#">about 2 hours ago</a>
+                            <a href="#">.https://t.co/WHATEVER</a><a href="#">about 2 hours ago</a>
                             "
                         </div>
                         <br>
                         <div class="twitter-update">
-                            "Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus<a href="#">http://t.co/WHATEVER</a>
+                            "Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus<a href="#">https://t.co/WHATEVER</a>
                             <a href="#">about 2 hours ago</a>
                             "
                         </div>

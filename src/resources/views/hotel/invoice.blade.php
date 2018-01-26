@@ -42,7 +42,7 @@
                     <address>
                         <strong>Company:</strong><br>
                         The Hotel Empire<br>
-                        <a>http://hotelempire.com</a><br>
+                        <a>https://hotelempire.com</a><br>
                         +55 4XX-634-7071<br>
                         1234 Main Apt. 4B<br>
                         Springfield, ST 54321
